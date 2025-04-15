@@ -1,0 +1,17 @@
+[project]
+name = "mcp-server-zoom-noauth"
+version = "0.1.0"
+description = "A simple Zoom MCP server (no authentication flow)"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["mcp>=1.4.1", "python-dotenv>=1.0.1", "requests>=2.28.1", "pydantic>=1.10.2", "python-dateutil>=2.8.2"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+dev-dependencies = ["pyright>=1.1.389"]
+
+[project.scripts]
+mcp-server-zoom-noauth = "mcp_server_zoom_noauth:main" 
