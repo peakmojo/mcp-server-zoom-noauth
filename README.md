@@ -12,6 +12,9 @@ This project is a Model Control Protocol (MCP) server for accessing Zoom API fun
 - Get detailed information about specific meeting recordings
 - Access meeting transcripts
 
+  <img width="800" alt="image" src="https://github.com/user-attachments/assets/2e2ae569-fa10-427a-8dc0-24e7a811bfb1" />
+
+
 ## Installation
 
 1. Clone the repository:
