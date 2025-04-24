@@ -5,6 +5,10 @@
 
 This project is a Model Control Protocol (MCP) server for accessing Zoom API functionality without requiring direct authentication from the end user. It handles the OAuth flows and provides a set of tools for interacting with Zoom recordings and transcripts.
 
+<a href="https://glama.ai/mcp/servers/@peakmojo/mcp-server-zoom-noauth">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@peakmojo/mcp-server-zoom-noauth/badge" alt="Zoom Recordings No-Auth MCP server" />
+</a>
+
 ## Features
 
 - OAuth credential management through tool arguments (no local auth flow)
