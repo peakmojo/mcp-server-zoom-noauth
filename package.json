@@ -1,6 +1,6 @@
 {
   "name": "@peakmojo/mcp-server-zoom-noauth",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple Zoom MCP server (no authentication flow)",
   "type": "module",
   "publishConfig": {
