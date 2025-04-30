@@ -1,0 +1,26 @@
+{
+  "name": "@peakmojo/mcp-server-zoom-noauth",
+  "version": "0.1.0",
+  "description": "A simple Zoom MCP server (no authentication flow)",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "src/mcp_server_zoom_noauth/server.js",
+  "bin": {
+    "mcp-server-zoom-noauth": "src/mcp_server_zoom_noauth/server.js"
+  },
+  "scripts": {
+    "start": "node src/mcp_server_zoom_noauth/server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.4.1",
+    "axios": "^1.6.7",
+    "luxon": "^3.4.4",
+    "zod": "^3.22.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "Apache-2.0"
+} 
