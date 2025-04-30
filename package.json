@@ -6,12 +6,12 @@
   "publishConfig": {
     "access": "public"
   },
-  "main": "src/mcp_server_zoom_noauth/server.js",
+  "main": "server.js",
   "bin": {
-    "mcp-server-zoom-noauth": "src/mcp_server_zoom_noauth/server.js"
+    "mcp-server-zoom-noauth": "server.js"
   },
   "scripts": {
-    "start": "node src/mcp_server_zoom_noauth/server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.4.1",
