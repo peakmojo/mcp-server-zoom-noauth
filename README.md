@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/peakmojo-mcp-server-zoom-noauth-badge.png)](https://mseep.ai/app/peakmojo-mcp-server-zoom-noauth)
+
 # MCP Server for Zoom (No Auth) - Python & Node.js
 
 [![Docker Hub](https://img.shields.io/docker/pulls/buryhuang/mcp-server-zoom-noauth?label=Docker%20Hub)](https://hub.docker.com/r/buryhuang/mcp-server-zoom-noauth)  [![npm version](https://img.shields.io/npm/v/@peakmojo/mcp-server-zoom-noauth.svg)](https://www.npmjs.com/package/@peakmojo/mcp-server-zoom-noauth) [![License: Apache 2.0](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
